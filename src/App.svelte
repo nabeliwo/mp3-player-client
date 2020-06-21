@@ -1,6 +1,5 @@
 <script>
-  const hoge = "hoge"
-  export let name;
+  export let name
 </script>
 
 <main>
